@@ -16,7 +16,7 @@ if(isset($_POST['but_logout'])){
 <html>
     <head></head>
     <body>
-        <h1>Homepage</h1>
+        <h1>Home</h1>
         <form method='post' action="">
             <input type="submit" value="Logout" name="but_logout">
         </form>

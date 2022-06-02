@@ -29,7 +29,7 @@ if(isset($_POST['but_submit'])){
 ?>
 <html>
     <head>
-        <title>SPARCSTONZ LOGIN</title>
+        <title>WELCOME TO SPARCSTONZ LOGIN</title>
         <link href="style.css" rel="stylesheet" type="text/css">
     </head>
     <body>
