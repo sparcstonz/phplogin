@@ -5,7 +5,7 @@ include "config.php";
 if(!isset($_SESSION['uname'])){
     header('Location: index.php');
 }
-//testlinw2
+
 // logout
 if(isset($_POST['but_logout'])){
     session_destroy();

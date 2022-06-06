@@ -29,8 +29,12 @@ if(isset($_POST['but_submit'])){
 ?>
 <html>
     <head>
+<<<<<<< HEAD
 	<title>WELCOME TO SPARCSTONZ LOGIN -- HI </title>
          <h1/> TEST line </h1>
+=======
+        <title>WELCOME TO SPARCSTONZ LOGIN</title>
+>>>>>>> parent of ca520a9...  change 3
         <link href="style.css" rel="stylesheet" type="text/css">
     </head>
     <body>
